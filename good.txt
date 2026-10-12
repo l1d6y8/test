@@ -1,3 +1,4 @@
 a1 -- by b1 merger
 b -- by clone after edit
 c -- by clone add c to pull
+d -- edit by A
